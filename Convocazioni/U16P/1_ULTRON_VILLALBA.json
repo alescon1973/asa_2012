@@ -1,0 +1,32 @@
+{
+    "giornata": 1,
+    "squadra": "ULTRON VILLALBA",
+    "data_ora_incontro": "\"2024-10-19T18:00:00\"",
+    "denominazione_campo": "Claudio e Andrea, via di Santa Cornelia 2238 - Roma",
+    "ora_raduno": "16:45:00",
+    "componenti_squadra": [
+        "Giovanni BOCCIA",
+        "Lorenzo CAPANNOLO",
+        "Michele CARUSO",
+        "Mattia CASTELLUCCI",
+        "Gabriele CAU",
+        "Lorenzo CAU",
+        "Gabriele CESANDRI",
+        "Matteo  FERRAUTI",
+        "Julian GENTILI",
+        "Jacopo GENTILI",
+        "Gabriele GIANNOPOLO",
+        "Alessio IGLIOZZI",
+        "Pietro MANCINI",
+        "Bruno MARRUCCI",
+        "Flavio MOZZI",
+        "Mathias NICOLETTI",
+        "Davide PENNACCHINI",
+        "Lorenzo RABBI",
+        "Davide RIFERZI",
+        "Valerio CAGNUCCI"
+    ],
+    "non_convocati": "Edoardo BALESTRIERI, Riccardo CASTELLANI, Vincenzo CIRILLO, Enea COLANGELI, Gianni LO PICCOLO, Cristiano MIGENI, Lorenzo MIGENI, Edoardo PALANCA, Daniele PICARIELLO, Tommaso BACIU",
+    "nome_mister": "Alessandro CONVERTINO",
+    "nome_dirigente": "Vincenzo GIANNOPOLO"
+}

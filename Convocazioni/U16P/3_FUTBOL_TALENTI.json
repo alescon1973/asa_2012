@@ -1,0 +1,32 @@
+{
+    "giornata": 3,
+    "squadra": "FUTBOL TALENTI",
+    "data_ora_incontro": "\"2024-11-02T18:30:00\"",
+    "denominazione_campo": "PIONIERI, via Fabriano 70 - Roma",
+    "ora_raduno": "17:15:00",
+    "componenti_squadra": [
+        "Giovanni BOCCIA",
+        "Michele CARUSO",
+        "Mattia CASTELLUCCI",
+        "Gabriele CAU",
+        "Lorenzo CAU",
+        "Gabriele CESANDRI",
+        "Lorenzo CAPANNOLO",
+        "Jacopo GENTILI",
+        "Alessio IGLIOZZI",
+        "Mathias NICOLETTI",
+        "Matteo  FERRAUTI",
+        "Pietro MANCINI",
+        "Flavio MOZZI",
+        "Edoardo PALANCA",
+        "Davide PENNACCHINI",
+        "Daniele PICARIELLO",
+        "Lorenzo RABBI",
+        "",
+        "",
+        ""
+    ],
+    "non_convocati": "Vincenzo CIRILLO, Riccardo CASTELLANI, Enea COLANGELI, Gabriele GIANNOPOLO, Bruno MARRUCCI, Davide RIFERZI, Gianni LO PICCOLO, Julian GENTILI",
+    "nome_mister": "Alessandro CONVERTINO",
+    "nome_dirigente": "Vincenzo GIANNOPOLI"
+}

@@ -1,0 +1,32 @@
+{
+    "giornata": 4,
+    "squadra": "MENTANA",
+    "data_ora_incontro": "\"2024-11-10T09:00:00\"",
+    "denominazione_campo": "Claudio e Andrea, via di Santa Cornelia 2238 - Roma",
+    "ora_raduno": "07:45:00",
+    "componenti_squadra": [
+        "Mathias NICOLETTI",
+        "Cristiano MIGENI",
+        "Gabriele CAU",
+        "Giovanni BOCCIA",
+        "Valerio CONTI",
+        "Gabriele GIANNOPOLO",
+        "Lorenzo CAU",
+        "Davide RIFERZI",
+        "Flavio MOZZI",
+        "Gianni LO PICCOLO",
+        "Pietro MANCINI",
+        "Enea COLANGELI",
+        "Gabriele CESANDRI",
+        "Davide PENNACCHINI",
+        "Lorenzo RABBI",
+        "Matteo  FERRAUTI",
+        "Jacopo GENTILI",
+        "Lorenzo MIGENI",
+        "Daniele PICARIELLO",
+        ""
+    ],
+    "non_convocati": "Edoardo BALESTRIERI, Lorenzo CAPANNOLO, Michele CARUSO, Riccardo CASTELLANI, Mattia CASTELLUCCI, Vincenzo CIRILLO, Julian GENTILI, Alessio IGLIOZZI, Bruno MARRUCCI, Edoardo PALANCA, Tommaso BACIU, Valerio CAGNUCCI, Mirko BARONE, Eyan ELWANY, Damiano SILVESTRI, Luca SERAFINI",
+    "nome_mister": "Alessandro CONVERTINO",
+    "nome_dirigente": "Vincenzo GIANNOPOLO"
+}

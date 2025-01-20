@@ -1,0 +1,32 @@
+{
+    "giornata": 7,
+    "squadra": "LEDESMA",
+    "data_ora_incontro": "\"2024-11-30T10:11:00\"",
+    "denominazione_campo": "",
+    "ora_raduno": "10:11:00",
+    "componenti_squadra": [
+        "Mathias NICOLETTI",
+        "Tommaso BACIU",
+        "Gabriele CAU",
+        "Giovanni BOCCIA",
+        "Valerio CONTI",
+        "Gabriele CESANDRI",
+        "Pietro MANCINI",
+        "Davide RIFERZI",
+        "Lorenzo RABBI",
+        "Gianni LO PICCOLO",
+        "Lorenzo CAU",
+        "",
+        "Lorenzo CAPANNOLO",
+        "Michele CARUSO",
+        "Vincenzo CIRILLO",
+        "Jacopo GENTILI",
+        "Bruno MARRUCCI",
+        "Davide PENNACCHINI",
+        "",
+        ""
+    ],
+    "non_convocati": "Edoardo BALESTRIERI, Riccardo CASTELLANI, Mattia CASTELLUCCI, Enea COLANGELI, Matteo  FERRAUTI, Julian GENTILI, Gabriele GIANNOPOLO, Alessio IGLIOZZI, Cristiano MIGENI, Lorenzo MIGENI, Flavio MOZZI, Edoardo PALANCA, Daniele PICARIELLO, Valerio CAGNUCCI, Mirko BARONE, Eyan ELWANY",
+    "nome_mister": "Alessandro Convertino",
+    "nome_dirigente": ""
+}
