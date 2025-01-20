@@ -1,0 +1,114 @@
+{
+    "allenatore": [
+        {
+            "id": "1",
+            "mister": "Under 16P",
+            "pwd": "Under16P",
+            "categoria": "Provinciale", 
+            "file":"data/U16P.csv",
+            "registro": "data/presenze_U16P.json",
+            "acronimo": "U16P",
+            "minuti": 80 
+        },
+        {
+            "id": "2",
+            "mister": "Prima Squadra",
+            "pwd": "PrimaSquadra",
+            "categoria": "Regionale",
+            "file":"data/PS.csv",
+            "registro": "data/presenze_PS.json",
+            "acronimo": "PrimaSquadra",
+            "minuti": 90 
+        },
+        {
+            "id": "3",
+            "mister": "Under 19",
+            "pwd": "Under19",
+            "categoria": "Regionale",
+            "file":"data/U19.csv",
+            "registro": "data/presenze_U19.json",
+            "acronimo": "U19",
+            "minuti": 90 
+        },
+        {
+            "id": "4",
+            "mister": "Under 18",
+            "pwd": "Under18",
+            "categoria": "Regionale",
+            "file":"data/U18.csv",
+            "registro": "data/presenze_U18.json",
+            "acronimo": "U18",
+            "minuti": 90 
+        },
+        {
+            "id": "5",
+            "mister": "Under 17R",
+            "pwd": "Under17R",
+            "categoria": "Regionale",
+            "file":"data/U17R.csv",
+            "registro": "data/presenze_U17R.json",
+            "acronimo": "U17R",
+            "minuti": 90 
+        },
+        {
+            "id": "6",
+            "mister": "Under 17P",
+            "pwd": "Under17P",
+            "categoria": "Provinciale",
+            "file":"data/U17P.csv",
+            "registro": "data/presenze_U17P.json",
+            "acronimo": "U17P",
+            "minuti": 80 
+        },
+        {
+            "id": "7",
+            "mister": "Under 16R",
+            "pwd": "Under16R",
+            "categoria": "Regionale",
+            "file":"data/U16R.csv",
+            "registro": "data/presenze_U16R.json",
+            "acronimo": "U16R",
+            "minuti": 80 
+        },
+        {
+            "id": "8",
+            "mister": "Under 15R",
+            "pwd": "Under15R",
+            "categoria": "Regionale",
+            "file":"data/U15R.csv",
+            "registro": "data/presenze_U15R.json",
+            "acronimo": "U15R",
+            "minuti": 70 
+        },
+        {
+            "id": "9",
+            "mister": "Under 15P",
+            "pwd": "Under15P",
+            "categoria": "Provinciale",
+            "file":"data/U15P.csv",
+            "registro": "data/presenze_U15P.json",
+            "acronimo": "U15P",
+            "minuti": 70 
+        },
+        {
+            "id": "10",
+            "mister": "Under 14R",
+            "pwd": "Under14R",
+            "categoria": "Regionale",
+            "file":"data/U14R.csv",
+            "registro": "data/presenze_U14R.json",
+            "acronimo": "U14R",
+            "minuti": 70 
+        },
+        {
+            "id": "11",
+            "mister": "Under 14P",
+            "pwd": "Under14P",
+            "categoria": "Provinciale",
+            "file":"data/U14P.csv",
+            "registro": "data/presenze_U14P.json",
+            "acronimo": "U14P",
+            "minuti": 70 
+        }
+    ]
+}

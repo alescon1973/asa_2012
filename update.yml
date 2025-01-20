@@ -1,0 +1,22 @@
+name: Commit Changes
+
+on:
+  push:
+    paths:
+      - '**/*.csv'
+      - '**/*.json'
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          git commit -m 'Update CSV and JSON files'
+          git push
